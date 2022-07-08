@@ -1,0 +1,20 @@
+.mainContainer {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  min-height: 800px;
+}
+
+table tr td {
+  height: 50px;
+  width: 50px;
+}
+
+.color1 {
+  background-color: rgb(254, 255, 224);
+}
+
+.color2 {
+  background-color: rgb(85, 107, 47);
+}
